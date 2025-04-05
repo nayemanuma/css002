@@ -1,0 +1,62 @@
+h4{  
+   color: black;
+   background-color: silver;
+   width: 40%;
+}
+h1{
+     color: whitesmoke;
+     margin: 20px;
+     text-align: center;
+}
+.Life-lesson1{
+     background-color: golde;
+}
+.p{
+     color: black;
+}
+.border{
+     border: 2px dotted blue;
+     background-color: orange;
+
+}
+.border1{
+     border: 2px dashed green;
+}
+}
+#head1{
+     font-size: 40px;
+     color: black;
+}
+.box{
+     width: 40pt;
+     height: 20px;
+     background-color: goldenrod;
+     padding: 40px;
+     text-align: center;
+
+}
+.some1{
+     color: goldenrod;
+     background-color: black;
+     width: 20rem;
+}
+.box1{
+     color: black;
+     background-color: tomato;
+     text-align: center;
+     margin: 20px;
+
+}
+.box2{
+     color: black;
+     background-color: orange;
+     text-align: center;
+     margin: 20px;
+}
+
+.box3{
+     color: black;
+     background-color: lightgray;
+     text-align: center;
+     margin: 20px;
+
